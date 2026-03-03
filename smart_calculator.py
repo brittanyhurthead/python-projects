@@ -1,3 +1,4 @@
+print("Calculator v1.0")
 while True:
     num1 = float(input("Enter first number: "))
     operator = input("Choose +, -, *, or /: ")
